@@ -6,4 +6,5 @@ Part of the Udemy Unreal Engine Course. [Here](https://www.udemy.com/unrealcours
 ---
 
 Commits:
-* First commit is read me
+* ReadMe
+* Setting Up GitHub Repo
